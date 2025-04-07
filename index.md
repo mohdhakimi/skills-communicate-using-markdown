@@ -6,3 +6,5 @@
 ###### Header 6
 
 Trying all headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
